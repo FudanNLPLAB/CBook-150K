@@ -2,7 +2,7 @@
 ## 中文图书语料集合
 
 > 此语料集合基于网上开源的MD5图书链接获取
-> 如需获取请联系[桂韬](tgui@fudan.edu.cn)
+> 如有问题请联系tgui@fudan.edu.cn
 
 ## MD5链接
 
@@ -28,7 +28,17 @@
 
 ## MD5快传插件
 
-[插件下载](https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/)安装后即可在百度云盘内使用
+* [插件下载](https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/)安装后即可在百度云盘内使用
+
+![image-20230414222233965](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414222233965.png)
+
+
+
+* 将MD5链接复制到秒传按钮对应的窗口内即可转存，转存成功后方可批量下载。
+
+![image-20230414222731634](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414222731634.png)
+
+![image-20230414223516455](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414223516455.png)
 
 ## 图书解析
 
