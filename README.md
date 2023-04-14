@@ -30,15 +30,15 @@
 
 * [插件下载](https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/)安装后即可在百度云盘内使用
 
-![image-20230414222233965](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414222233965.png)
+![view1](imgs/baiduyun_view1.png)
 
 
 
 * 将MD5链接复制到秒传按钮对应的窗口内即可转存，转存成功后方可批量下载。
 
-![image-20230414222731634](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414222731634.png)
+![view2](imgs/baiduyun_view2.png)
 
-![image-20230414223516455](C:\Users\AllenZhang\AppData\Roaming\Typora\typora-user-images\image-20230414223516455.png)
+![view3](imgs/baiduyun_view3.png)
 
 ## 图书解析
 
