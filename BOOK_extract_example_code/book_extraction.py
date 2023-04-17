@@ -113,7 +113,7 @@ for PDF_MD5 in pdf_md5_list:
     except Exception as e:
         print(e)
     with open(os.path.join(pdf_chinese_md5_dir,'{}.txt'.format(PDF_MD5)),'w',encoding='utf-8') as fp:
-        fp.write(chapter_content.get_text().strip())
+        fp.write(''.join(page_info).strip())
     with open(os.path.join(pdf_chinese_md5_dir,'{}.txt'.format(PDF_MD5)),'r',encoding='utf-8') as fp:
         lines = fp.readlines()
     filtered_lines = []
